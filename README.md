@@ -25,7 +25,7 @@ deepTAD, which is based on CNN-transformer model for feature extraction from Hi-
 
    
 
-2. ***Generate 10*10 sample data from large Hi-C contact matrix matrices based on the generated boundaries and label them to generate training and validation datasets***
+2. ***Generate 10×10 sample data from large Hi-C contact matrix matrices based on the generated boundaries and label them to generate training and validation datasets***
 
    
 
